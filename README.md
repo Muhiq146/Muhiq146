@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Muhiq Kapadia
-- 👀 I’m interested in Full stack developer. 
-- 🌱 I’m currently learning reactJs.
+- 👀 I’m interested in Django developer. 
+- 🌱 I’m currently learning reactJs, Django.
 - 💞️ I’m looking to collaborate with a growing company. 
 - 📫 You can contact me at muhiq26@gmail.com
 
